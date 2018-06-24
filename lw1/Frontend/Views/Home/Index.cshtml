@@ -1,12 +1,31 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model Frontend.Models.FormModel;
+@{
+	ViewData["Title"] = "Upload";
 }
 
-<div>
-    <h2>Описание</h2>
+<br/>
+<br/>
 
-    <p>
-        Необходимо разработать приложение, состоящее из двух компонентов: Frontend и Backend, взаимодействующих по протоколу HTTP.        
-    </p>
+<div class="row">
+	<div class="col-lg-7">
+		@using (Html.BeginForm())
+		{
+			<form>
+				<div class="form-group">
+					<label>Upload this</label>
+					@Html.TextBoxFor(model => model.Data, new {@class = "form-control"})
+				</div>
+				<div class="form-group">
+					<input class="btn btn-success" type="submit" value="Upload"/>
+				</div>					
+			</form>
+		}
+	</div>
+
+	<div class="col-lg-5">
+		<label>Result from backend</label>
+		@Html.TextBoxFor(model => model.Id, new {@class = "form-control"})
+	</div>
+
 </div>
 

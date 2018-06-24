@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lulldev/Documents/GitHub/dp/lw1/Backend/Backend.csproj",
-      "projectName": "Backend",
-      "projectPath": "/Users/lulldev/Documents/GitHub/dp/lw1/Backend/Backend.csproj",
+      "projectUniqueName": "/Users/lulldev/Documents/GitHub/dp/lw1/Frontend/Frontend.csproj",
+      "projectName": "Frontend",
+      "projectPath": "/Users/lulldev/Documents/GitHub/dp/lw1/Frontend/Frontend.csproj",
       "packagesPath": "/Users/lulldev/.nuget/packages/",
-      "outputPath": "/Users/lulldev/Documents/GitHub/dp/lw1/Backend/obj/",
+      "outputPath": "/Users/lulldev/Documents/GitHub/dp/lw1/Frontend/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

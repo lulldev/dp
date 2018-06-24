@@ -6,40 +6,35 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Frontend.Models;
 using System.Net.Http;
+using System.Text;
+using System.Net.Http.Headers;
 
 namespace Frontend.Controllers
 {
-    public class HomeController : Controller
-    {
-        private static readonly HttpClient httpClient = new HttpClient();
+	public class HomeController : Controller
+	{
+		public async Task<IActionResult> Index(FormModel formModel)
+		{
+			if (formModel.Data != null)
+			{
+				string url = "http://127.0.0.1:5050/api/values";
+				StringContent stringContent = new StringContent($"{{ \"data\": \"{formModel.Data}\"}}", Encoding.UTF8, "application/json");
+				using (HttpClient httpClient = new HttpClient())
+				{
+					httpClient.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("text/plain"));
+					using (HttpResponseMessage response = await httpClient.PostAsync(url, stringContent))
+					using (HttpContent content = response.Content)
+					{
+						formModel.Id = content.ReadAsStringAsync().Result;
+					}
+				}
+			}
+			return View(formModel);
+		}
 
-        public IActionResult Index()
-        {
-            return View();
-        }
-
-        [HttpGet]
-        public IActionResult Upload()
-        {
-            return View();
-        }
-
-        [HttpPost]
-        public async Task<IActionResult> Upload(string data)
-        {
-            var dictionary = new Dictionary<string, string>()
-            {
-                { "data", (data == null) ? "" : data },
-            };
-            var content = new FormUrlEncodedContent(dictionary);
-            var response = await httpClient.PostAsync("http://127.0.0.1:5000/api/values", content);
-            var result = await response.Content.ReadAsStringAsync();
-            return Ok(result);
-        }
-
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
-    }
+		public IActionResult Error()
+		{
+			return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+		}
+	}
 }
