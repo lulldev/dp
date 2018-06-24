@@ -1,75 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdc2902b-6f20-432c-adff-05f974c6e6dd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Backend/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/.vscode/tasks.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/Backend.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Backend.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/Backend.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/Controllers/ValuesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Controllers/ValuesController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/Models/StringHolder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/Properties/launchSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/bin/Debug/netcoreapp2.0/Backend.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/bin/Debug/netcoreapp2.0/Backend.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/bin/Debug/netcoreapp2.0/Backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/bin/Debug/netcoreapp2.0/Backend.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/bin/Debug/netcoreapp2.0/Backend.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/bin/Debug/netcoreapp2.0/Backend.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/bin/Debug/netcoreapp2.0/Backend.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/bin/Debug/netcoreapp2.0/Backend.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/bin/Debug/netcoreapp2.1/Backend.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/bin/Debug/netcoreapp2.1/Backend.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/bin/Debug/netcoreapp2.1/Backend.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/bin/Debug/netcoreapp2.1/Backend.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/bin/Debug/netcoreapp2.1/Backend.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Backend.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/Backend.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Backend.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/Backend.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Backend.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/Backend.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.0/Backend.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.0/Backend.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.0/Backend.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.0/Backend.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.0/Backend.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.0/Backend.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.0/Backend.csprojResolveAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.0/Backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.0/Backend.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.0/Backend.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.0/Backend.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.1/Backend.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.1/Backend.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.1/Backend.RazorAssemblyInfo.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.1/Backend.RazorAssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.1/Backend.RazorTargetAssemblyInfo.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.1/Backend.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.1/Backend.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.1/Backend.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.1/Backend.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.1/Backend.csprojResolveAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.1/Backend.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/netcoreapp2.1/Backend.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/.idea/.idea.Frontend/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/.idea/.idea.Frontend/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Controllers/HomeController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/Frontend.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/Models/ErrorViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Models/ErrorViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/Properties/launchSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/Views/Home/About.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/Views/Home/Contact.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Views/Home/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/Views/Home/Privacy.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/Views/Home/Upload.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/Views/Shared/Error.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Views/Shared/Error.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/Views/Shared/_CookieConsentPartial.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/Views/Shared/_ValidationScriptsPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Views/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/Views/_ViewStart.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Views/_ViewStart.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/wwwroot/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/wwwroot/css/site.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="fdc2902b-6f20-432c-adff-05f974c6e6dd" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,8 +14,8 @@
       <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Frontend/Views/Home/Index.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            <state relative-caret-position="192">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
               <folding>
                 <marker date="1529863252524" expanded="true" signature="34:69" ph="@..." />
                 <marker date="1529863252524" expanded="true" signature="84:595" ph="&lt;div.../&gt;" />
@@ -95,6 +27,41 @@
                 <marker date="1529863252524" expanded="true" signature="172:313" ph="&lt;div.../&gt;" />
                 <marker date="1529863252524" expanded="true" signature="318:420" ph="&lt;div.../&gt;" />
                 <marker date="1529863252524" expanded="true" signature="451:587" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValuesController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Backend/Controllers/ValuesController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <marker date="1529861576257" expanded="true" signature="6:165" ph="..." />
+                <marker date="1529861576257" expanded="true" signature="196:726" ph="{...}" />
+                <marker date="1529861576257" expanded="true" signature="271:724" ph="{...}" />
+                <marker date="1529861576257" expanded="true" signature="466:549" ph="{...}" />
+                <marker date="1529861576257" expanded="true" signature="630:721" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Frontend/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+              <folding>
+                <marker date="1529861576259" expanded="false" signature="6:250" ph="..." />
+                <marker date="1529861576259" expanded="true" signature="282:1177" ph="{...}" />
+                <marker date="1529861576259" expanded="true" signature="326:1175" ph="{...}" />
+                <marker date="1529861576259" expanded="true" signature="391:1028" ph="{...}" />
+                <marker date="1529861576259" expanded="true" signature="426:997" ph="{...}" />
+                <marker date="1529861576259" expanded="true" signature="665:992" ph="{...}" />
+                <marker date="1529861576259" expanded="true" signature="915:986" ph="{...}" />
+                <marker date="1529861576259" expanded="true" signature="1060:1172" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -157,17 +124,6 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="lw1" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="Backend" type="6f407253:SolutionExplorerNodeFileSystem" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="lw1" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="Backend" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="obj" type="6f407253:SolutionExplorerNodeFileSystem" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="lw1" type="6f407253:SolutionExplorerNodeFileSystem" />
               <item name="Frontend" type="6f407253:SolutionExplorerNodeFileSystem" />
             </path>
             <path>
@@ -175,12 +131,6 @@
               <item name="lw1" type="6f407253:SolutionExplorerNodeFileSystem" />
               <item name="Frontend" type="6f407253:SolutionExplorerNodeFileSystem" />
               <item name="Controllers" type="6f407253:SolutionExplorerNodeFileSystem" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="lw1" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="Frontend" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="Models" type="6f407253:SolutionExplorerNodeFileSystem" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
@@ -237,12 +187,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529861692533</updated>
-      <workItem from="1529861694002" duration="1532000" />
+      <workItem from="1529861694002" duration="1644000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1532000" />
+    <option name="totallyTimeSpent" value="1644000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -341,26 +291,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Frontend/Controllers/HomeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Backend/Controllers/ValuesController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1529861576257" expanded="false" signature="6:165" ph="..." />
-            <marker date="1529861576257" expanded="true" signature="196:726" ph="{...}" />
-            <marker date="1529861576257" expanded="true" signature="271:724" ph="{...}" />
-            <marker date="1529861576257" expanded="true" signature="466:549" ph="{...}" />
-            <marker date="1529861576257" expanded="true" signature="630:721" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Backend/Dto/DataDto.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -373,10 +303,41 @@
     <entry file="file://$PROJECT_DIR$/Backend/Program.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <marker date="1529861576257" expanded="true" signature="6:165" ph="..." />
+            <marker date="1529861576257" expanded="true" signature="196:726" ph="{...}" />
+            <marker date="1529861576257" expanded="true" signature="271:724" ph="{...}" />
+            <marker date="1529861576257" expanded="true" signature="466:549" ph="{...}" />
+            <marker date="1529861576257" expanded="true" signature="630:721" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frontend/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding>
+            <marker date="1529861576259" expanded="false" signature="6:250" ph="..." />
+            <marker date="1529861576259" expanded="true" signature="282:1177" ph="{...}" />
+            <marker date="1529861576259" expanded="true" signature="326:1175" ph="{...}" />
+            <marker date="1529861576259" expanded="true" signature="391:1028" ph="{...}" />
+            <marker date="1529861576259" expanded="true" signature="426:997" ph="{...}" />
+            <marker date="1529861576259" expanded="true" signature="665:992" ph="{...}" />
+            <marker date="1529861576259" expanded="true" signature="915:986" ph="{...}" />
+            <marker date="1529861576259" expanded="true" signature="1060:1172" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Frontend/Views/Home/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="192">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
           <folding>
             <marker date="1529863252524" expanded="true" signature="34:69" ph="@..." />
             <marker date="1529863252524" expanded="true" signature="84:595" ph="&lt;div.../&gt;" />
