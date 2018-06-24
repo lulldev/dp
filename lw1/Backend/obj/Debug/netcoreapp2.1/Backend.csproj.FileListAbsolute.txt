@@ -1,0 +1,14 @@
+/Users/lulldev/Documents/Temp/Distributed-Programming/lw1/Backend/bin/Debug/netcoreapp2.1/Backend.deps.json
+/Users/lulldev/Documents/Temp/Distributed-Programming/lw1/Backend/bin/Debug/netcoreapp2.1/Backend.runtimeconfig.json
+/Users/lulldev/Documents/Temp/Distributed-Programming/lw1/Backend/bin/Debug/netcoreapp2.1/Backend.runtimeconfig.dev.json
+/Users/lulldev/Documents/Temp/Distributed-Programming/lw1/Backend/bin/Debug/netcoreapp2.1/Backend.dll
+/Users/lulldev/Documents/Temp/Distributed-Programming/lw1/Backend/bin/Debug/netcoreapp2.1/Backend.pdb
+/Users/lulldev/Documents/Temp/Distributed-Programming/lw1/Backend/obj/Debug/netcoreapp2.1/Backend.csprojAssemblyReference.cache
+/Users/lulldev/Documents/Temp/Distributed-Programming/lw1/Backend/obj/Debug/netcoreapp2.1/Backend.csproj.CoreCompileInputs.cache
+/Users/lulldev/Documents/Temp/Distributed-Programming/lw1/Backend/obj/Debug/netcoreapp2.1/Backend.RazorAssemblyInfo.cache
+/Users/lulldev/Documents/Temp/Distributed-Programming/lw1/Backend/obj/Debug/netcoreapp2.1/Backend.RazorAssemblyInfo.cs
+/Users/lulldev/Documents/Temp/Distributed-Programming/lw1/Backend/obj/Debug/netcoreapp2.1/Backend.AssemblyInfoInputs.cache
+/Users/lulldev/Documents/Temp/Distributed-Programming/lw1/Backend/obj/Debug/netcoreapp2.1/Backend.AssemblyInfo.cs
+/Users/lulldev/Documents/Temp/Distributed-Programming/lw1/Backend/obj/Debug/netcoreapp2.1/Backend.RazorTargetAssemblyInfo.cache
+/Users/lulldev/Documents/Temp/Distributed-Programming/lw1/Backend/obj/Debug/netcoreapp2.1/Backend.dll
+/Users/lulldev/Documents/Temp/Distributed-Programming/lw1/Backend/obj/Debug/netcoreapp2.1/Backend.pdb
