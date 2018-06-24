@@ -1,0 +1,11 @@
+/Users/lulldev/Documents/GitHub/dp/lw1/Backend/bin/Debug/netcoreapp2.0/Backend.deps.json
+/Users/lulldev/Documents/GitHub/dp/lw1/Backend/bin/Debug/netcoreapp2.0/Backend.runtimeconfig.json
+/Users/lulldev/Documents/GitHub/dp/lw1/Backend/bin/Debug/netcoreapp2.0/Backend.runtimeconfig.dev.json
+/Users/lulldev/Documents/GitHub/dp/lw1/Backend/bin/Debug/netcoreapp2.0/Backend.dll
+/Users/lulldev/Documents/GitHub/dp/lw1/Backend/bin/Debug/netcoreapp2.0/Backend.pdb
+/Users/lulldev/Documents/GitHub/dp/lw1/Backend/obj/Debug/netcoreapp2.0/Backend.csprojAssemblyReference.cache
+/Users/lulldev/Documents/GitHub/dp/lw1/Backend/obj/Debug/netcoreapp2.0/Backend.csproj.CoreCompileInputs.cache
+/Users/lulldev/Documents/GitHub/dp/lw1/Backend/obj/Debug/netcoreapp2.0/Backend.AssemblyInfoInputs.cache
+/Users/lulldev/Documents/GitHub/dp/lw1/Backend/obj/Debug/netcoreapp2.0/Backend.AssemblyInfo.cs
+/Users/lulldev/Documents/GitHub/dp/lw1/Backend/obj/Debug/netcoreapp2.0/Backend.dll
+/Users/lulldev/Documents/GitHub/dp/lw1/Backend/obj/Debug/netcoreapp2.0/Backend.pdb
