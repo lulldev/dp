@@ -17,7 +17,7 @@ namespace Frontend.Controllers
 		{
 			if (formModel.Data != null)
 			{
-				string url = "http://127.0.0.1:5050/api/values";
+				string url = "http://127.0.0.1:5000/api/values";
 				StringContent stringContent = new StringContent($"{{ \"data\": \"{formModel.Data}\"}}", Encoding.UTF8, "application/json");
 				using (HttpClient httpClient = new HttpClient())
 				{
