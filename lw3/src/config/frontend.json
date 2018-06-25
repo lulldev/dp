@@ -1,0 +1,4 @@
+{
+    "urls" : "http://localhost:5001",
+    "backend.url" : "http://localhost:5000"
+}
